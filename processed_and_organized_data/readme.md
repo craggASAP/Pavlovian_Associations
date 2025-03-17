@@ -1,6 +1,5 @@
 # Project Name:
-	Spatially organized striatum-wide acetylcholine dynamics for the learning and extinction of Pavlovian cues and actions
-
+	Distinct spatially organized striatum-wide acetylcholine dynamics for the learning and extinction of Pavlovian associations
 # datasets:
 	These datasets were generated using the script `data_processing_and_organizing.m` applied to the data in `raw_data` folder.
 	These datasets were used directed by `figure_code.m` and `sup_figure_code.m` scripts.
