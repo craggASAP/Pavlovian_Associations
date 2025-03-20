@@ -1,8 +1,8 @@
 # Project Name:
 	Distinct spatially organized striatum-wide acetylcholine dynamics for the learning and extinction of Pavlovian associations
 
-# datasets:
-	These datasets were generated using the script data_processing_and_organizing.m, located in the common_function folder, and applied to the source data (both main and supplementary) available on Zenodo.
+The datasets were organized using the data_processing_and_organizing.m script, located in the common_function folder. This script processes the source data (both main and supplementary) available on Zenodo. 
+The generated datasets are then used as inputs in the figure generation scripts (figure_code.m and sup_figure_code.m) to create the figures for each respective analysis. 
 
   These datasets are used directly by the figure_code.m and sup_figure_code.m scripts to generate each figure.
 	
