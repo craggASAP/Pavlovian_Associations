@@ -18,7 +18,7 @@
          - data_ processing_and_otganizing.m: all the raw datasets were organized using the data_processing_and_organizing.m script. This script processes the source data (both main and supplementary) available on Zenodo. 
     2) analysis codes: The generated datasets (from the data_processing_and_organizing.m script) are then used as inputs in the figure generation scripts (figure_code.m and sup_figure_code.m) to create the figures for each 
     respective analysis.  
-# Documentation and Workin Example
+# Documentation and Working Example
     These datasets are used directly by the figure_code.m and sup_figure_code.m scripts to generate each figure. The code for each figure and supplementary figure loads and utilizes the following processed and organized data, 
     which can be found on Zenodo in the 'processed_data' folder corresponding to each figure, this incluce:
 	1) across_mice_lick_index_data_whole_ITI.mat
