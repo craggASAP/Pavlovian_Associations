@@ -36,7 +36,7 @@ The following folders are included in this repository:
 ------------------
 ## Data Availability
 
-Both raw datasets and processed and organized datasets are available at [Zenodo](10.5281/zenodo.14728851) in separate .zip folders for each figure.
+Both raw datasets and processed and organized datasets are available at [Zenodo](https://zenodo.org/records/14728851) in separate .zip folders for each figure.
 
 ------------------
 ## Documentation and Working Example
