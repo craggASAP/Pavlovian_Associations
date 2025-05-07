@@ -41,7 +41,7 @@ Both raw datasets and processed and organized datasets are available at [Zenodo]
 ------------------
 ## Documentation and Working Example
 
-The processed and organised datasets are used directly by the **figure_code.m** and **sup_figure_code.m** scripts found in [**Analysis Codes**](https://github.com/Safa-Bouabid/Pav-Paper/tree/58d77dc9df8d06ebf460e331e690eda6714c84c1/analysis%20codes) folder to generate panels within each figure (both main and supplementary). The processed and organized data (in .mat or .xlsx format) can be found at [Zenodo](10.5281/zenodo.14728851) in **processed_data** subfolders within individual .zip folders corresponding to each figure. In addition to the **processed_data** subfolder, each .zip folder includes the following files:
+The processed and organised datasets are used directly by the **figure_code.m** and **sup_figure_code.m** scripts found in [**Analysis Codes**](https://github.com/Safa-Bouabid/Pav-Paper/tree/58d77dc9df8d06ebf460e331e690eda6714c84c1/analysis%20codes) folder to generate panels within each figure (both main and supplementary). The processed and organized data (in .mat or .xlsx format) can be found at [Zenodo](10.5281/zenodo.14728850) in **processed_data** subfolders within individual .zip folders corresponding to each figure. In addition to the **processed_data** subfolder, each .zip folder includes the following files:
 
 1) **CT_across_GXX_mice**, contains information of fiber locations for ACh data mice, and CT_across_DLXX_mice, contains information of fiber locations for DA data mice.
  
