@@ -119,6 +119,6 @@ This repository is released under the [MIT License](https://opensource.org/licen
 ------------------
 ## Acknowledgements
 
-This research was funded in whole by Aligning Science Across Parkinson’s **[ASAP-020370]** through the Michael J. Fox Foundation for Parkinson’s Research (MJFF).
+This research was funded in part by Aligning Science Across Parkinson’s **[ASAP-020370]** through the Michael J. Fox Foundation for Parkinson’s Research (MJFF).
   
   
